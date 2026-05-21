@@ -108,8 +108,8 @@ Electronic check payment**
 Interactive Tableau dashboard visualizing churn rates by contract 
 type, payment method, internet service, and tenure cohort.
 
-**Live Dashboard:**
-**Tableau Dashboard:**https://public.tableau.com/app/profile/nathan.tefera/viz/CustomerChurnAnalysisDashboard_17780901561540/Dashboard1
+**Tableau Dashboard:** https://public.tableau.com/app/profile/nathan.tefera/viz/CustomerChurnAnalysisDashboard_17780901561540/Dashboard1
+**PowerBI Dashboard:** Customer Churn Analysis Dashboard.pbix
 
 ## Model Limitations & Future Improvements
 - Class imbalance caused low recall for churned customers — 
