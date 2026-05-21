@@ -110,7 +110,8 @@ type, payment method, internet service, and tenure cohort.
 
 **Tableau Dashboard:** https://public.tableau.com/app/profile/nathan.tefera/viz/CustomerChurnAnalysisDashboard_17780901561540/Dashboard1
 **PowerBI Dashboard Download:** [Customer Churn Analysis Dashboard.pbix](https://github.com/Natitef/Customer-Churn-Analysis/blob/d0456de5528dd33d83dd8f2fde49baa58b4d2ae1/Customer%20Churn%20Analysis%20Dashboard.pbix)
-**PowerBI Screen Shot:** <img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/2d583f78-db4c-40de-a470-fc6d4bdf2a08" />
+**PowerBI Screen Shot:** 
+<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/2d583f78-db4c-40de-a470-fc6d4bdf2a08" />
 
 
 ## Model Limitations & Future Improvements
