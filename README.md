@@ -109,7 +109,7 @@ Interactive Tableau dashboard visualizing churn rates by contract
 type, payment method, internet service, and tenure cohort.
 
 **Live Dashboard:**
-https://public.tableau.com/app/profile/nathan.tefera/viz/CustomerChurnAnalysisDashboard_17780901561540/Dashboard1
+**Tableau Dashboard:**https://public.tableau.com/app/profile/nathan.tefera/viz/CustomerChurnAnalysisDashboard_17780901561540/Dashboard1
 
 ## Model Limitations & Future Improvements
 - Class imbalance caused low recall for churned customers — 
